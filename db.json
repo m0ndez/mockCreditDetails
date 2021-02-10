@@ -1,0 +1,15 @@
+{
+"data": [
+{
+  "currency": "THB",
+  "betMaxMin": "1 - 10,000",
+  "balanceMember": "10",
+  "balanceCredits": "5000",
+  "betAmount": "1000",
+  "totalCash": "5000",
+  "totalCredits": "10000",
+  "limitedCredit": "15000",
+  "accountBalance": "500"
+}
+  ]
+}
